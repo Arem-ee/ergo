@@ -15,7 +15,7 @@ function HeroSection() {
         alt="ERGO hero vehicle"
         fill
         priority
-        className="object-cover"
+        className="object-cover object-right sm:object-center"
         style={{ objectFit: "cover" }}
       />
       <div className="absolute inset-0 bg-gradient-to-b from-black/60 to-transparent dark:from-white/5 z-0" />
