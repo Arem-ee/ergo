@@ -1,0 +1,46 @@
+{
+  "name": "ergo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5",
+    "@radix-ui/react-dialog": "^1",
+    "@radix-ui/react-dropdown-menu": "^2",
+    "@radix-ui/react-slot": "^1",
+    "@react-three/drei": "^10",
+    "@react-three/fiber": "^9",
+    "class-variance-authority": "^0.7",
+    "clsx": "^2",
+    "framer-motion": "^12",
+    "gsap": "^3",
+    "lucide-react": "^0.510",
+    "next": "16.2.9",
+    "radix-ui": "^1.6.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "react-hook-form": "^7",
+    "sharp": "^0.35.1",
+    "tailwind-merge": "^3",
+    "tailwindcss-animate": "^1",
+    "three": "^0.176",
+    "zod": "^3",
+    "zustand": "^5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/three": "^0.184",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.9",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
